@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<title>HTML</title>  				<!-- web page title-->
+	<head></head>
+	<body background="222096.jpg">			<!--Inserting the bg image-->
+		<h1><p id="top">My Useful Links</p></h1>	<!--using id tag to specify the back to top button-->
+		<a href="#section1">Tutorial so far</a>     <!--Quick nav bar for the web page using anchors-->
+			|	 <a href="#section2">University Work</a>	<!-- using spaces and | as a separator-->
+			|	 <a href="#section3">Online Learning</a>
+			|	 <a href="#section4">Professional Working</a>
+			|	 <a href="#section5">Social Profiles</a>
+		<h2><p id="section1">Tutorial so far</p></h2>		<!-- using id tag to give a unique id for thee heading-->
+			<dl>											<!-- Defining the decriptioin list-->
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="google.com" target="_blank" />Tutorial 1</a></dt> <!-- using image as a bullet and the heading as a hyper link-->
+					<dd>This is the link to my first Tutorial, where I practised with basic html formatting tags.</dd> <!--using dd tag for the description-->
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="google.com" target="_blank" />Tutorial 2</a></dt>
+					<dd>This is a link to my second Tutorial, where I practised with Lists and Tables.</dd>
+			</dl>
+		<h2><p id="section2">University Work</p></h2> <!-- using id tag to give a unique id for thee heading-->
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://www.blackboard.com/index.html" target="_blank" />Blackboard</a></dt>
+					<dd>Virtual learning enviornment we use in the university.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://timetabling.westminster.ac.uk/Web/Timetable#" target="_blank" />Timetabling</a></dt>
+					<dd>This is a link to my University Timetable.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://servicedesk.westminster.ac.uk/MSMSelfService/" target="_blank" />Service Desk</a></dt>
+					<dd>This is a link to the service desk of my University.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://www.westminster.ac.uk/current-students" target="_blank" />Student Hub</a></dt>
+					<dd>The Student hub is the university web site which provide access to blackboard, news and events about the university to the students..</dd>
+			</dl>
+		<h2><p id="section3">Online Learning</p></h2>	<!-- using id tag to give a unique id for thee heading-->
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://www.w3schools.com/html/default.asp" target="_blank" />W3Schools-html</a></dt>
+					<dd>This is a link for w3school html learning page which you can learn html with online tutorials for free.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://devdocs.io/html/" target="_blank" />HTML-Doc</a></dt>
+					<dd>To study more about the html from the documentation.</dd>
+			</dl>
+		<h2><p id="section4">Professional Working</p></h2>	<!-- using id tag to give a unique id for thee heading-->
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://github.com/" target="_blank" />Github</a></dt>
+					<dd>Development platform for many projects.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://repo.packix.com/" target="_blank" />Packix</a></dt>
+					<dd>One of the largest cydia repository for cydia developers.</dd>
+			</dl>
+		<h2><p id="section5">Social Profiles</p></h2>	<!-- using id tag to give a unique id for thee heading-->
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://www.linkedin.com/" target="_blank" />LinkdIN</a></dt>
+					<dd>Which use for professional networking and job findings.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://www.reddit.com/" target="_blank" />reddit</a></dt>
+					<dd>Place where users can view and post social news.</dd>
+			</dl>
+			<dl>
+				<dt><img src="iconfinder_arrow-right-thick_216092.png"><a href="https://twitter.com/" target="_blank" />Twitter</a></dt>
+					<dd>A microblogging and social networking service which users can post and view posts.</dd>
+			</dl>
+		<img src="iconfinder_arrow-up-thick_216098.png"><a href="#top"> Back to top</a> <!--adding the image to the "back to top" button-->
+		<hr allign="bottom" color="black"> 			<!-- using horizontal ruler to draw a separater-->
+		Last modified:12/10/2019<br>
+		<i>Email:</i><a href="mailto:andrewdesivasl@gmail.com" target="_blank">andrewdesivasl@gmail.com</a><br>	<!--adiing hyperlink-->
+		<a href="https://www.iconfinder.com/" target="_blank">Icons</a>
+		by <a href="http://typicons.com" target="_blank">Typicons</a>
+		and <a href="https://www.s-ings.com/typicons/" target="_blank">Stephen Hutchings</a>
+		
+	</body>
+</html>
